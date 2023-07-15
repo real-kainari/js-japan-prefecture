@@ -1,0 +1,425 @@
+[
+    {
+        "iso": "JP-01",
+        "kanji": "北海道",
+        "kanji_short": "北海道",
+        "hiragana": "ほっかいどう",
+        "hiragana_short": "ほっかいどう",
+        "romaji": "Hokkaido",
+        "romaji_short": "Hokkaido"
+    },
+    {
+        "iso": "JP-02",
+        "kanji": "青森県",
+        "kanji_short": "青森",
+        "hiragana": "あおもりけん",
+        "hiragana_short": "あおもり",
+        "romaji": "Aomori-ken",
+        "romaji_short": "Aomori"
+    },
+    {
+        "iso": "JP-03",
+        "kanji": "岩手県",
+        "kanji_short": "岩手",
+        "hiragana": "いわてけん",
+        "hiragana_short": "いわて",
+        "romaji": "Iwate-ken",
+        "romaji_short": "Iwate"
+    },
+    {
+        "iso": "JP-04",
+        "kanji": "宮城県",
+        "kanji_short": "宮城",
+        "hiragana": "みやぎけん",
+        "hiragana_short": "みやぎ",
+        "romaji": "Miyagi-ken",
+        "romaji_short": "Miyagi"
+    },
+    {
+        "iso": "JP-05",
+        "kanji": "秋田県",
+        "kanji_short": "秋田",
+        "hiragana": "あきたけん",
+        "hiragana_short": "あきた",
+        "romaji": "Akita-ken",
+        "romaji_short": "Akita"
+    },
+    {
+        "iso": "JP-06",
+        "kanji": "山形県",
+        "kanji_short": "山形",
+        "hiragana": "やまがたけん",
+        "hiragana_short": "やまがた",
+        "romaji": "Yamagata-ken",
+        "romaji_short": "Yamagata"
+    },
+    {
+        "iso": "JP-07",
+        "kanji": "福島県",
+        "kanji_short": "福島",
+        "hiragana": "ふくしまけん",
+        "hiragana_short": "ふくしま",
+        "romaji": "Fukushima-ken",
+        "romaji_short": "Fukushima"
+    },
+    {
+        "iso": "JP-08",
+        "kanji": "茨城県",
+        "kanji_short": "茨城",
+        "hiragana": "いばらきけん",
+        "hiragana_short": "いばらき",
+        "romaji": "Ibaraki-ken",
+        "romaji_short": "Ibaraki"
+    },
+    {
+        "iso": "JP-09",
+        "kanji": "栃木県",
+        "kanji_short": "栃木",
+        "hiragana": "とちぎけん",
+        "hiragana_short": "とちぎ",
+        "romaji": "Tochigi-ken",
+        "romaji_short": "Tochigi"
+    },
+    {
+        "iso": "JP-10",
+        "kanji": "群馬県",
+        "kanji_short": "群馬",
+        "hiragana": "ぐんまけん",
+        "hiragana_short": "ぐんま",
+        "romaji": "Gunma-ken",
+        "romaji_short": "Gunma"
+    },
+    {
+        "iso": "JP-11",
+        "kanji": "埼玉県",
+        "kanji_short": "埼玉",
+        "hiragana": "さいたまけん",
+        "hiragana_short": "さいたま",
+        "romaji": "Saitama-ken",
+        "romaji_short": "Saitama"
+    },
+    {
+        "iso": "JP-12",
+        "kanji": "千葉県",
+        "kanji_short": "千葉",
+        "hiragana": "ちばけん",
+        "hiragana_short": "ちば",
+        "romaji": "Chiba-ken",
+        "romaji_short": "Chiba"
+    },
+    {
+        "iso": "JP-13",
+        "kanji": "東京都",
+        "kanji_short": "東京",
+        "hiragana": "とうきょうと",
+        "hiragana_short": "とうきょう",
+        "romaji": "Tokyo-to",
+        "romaji_short": "Tokyo"
+    },
+    {
+        "iso": "JP-14",
+        "kanji": "神奈川県",
+        "kanji_short": "神奈川",
+        "hiragana": "かながわけん",
+        "hiragana_short": "かながわ",
+        "romaji": "Kanagawa-ken",
+        "romaji_short": "Kanagawa"
+    },
+    {
+        "iso": "JP-15",
+        "kanji": "新潟県",
+        "kanji_short": "新潟",
+        "hiragana": "にいがたけん",
+        "hiragana_short": "にいがた",
+        "romaji": "Niigata-ken",
+        "romaji_short": "Niigata"
+    },
+    {
+        "iso": "JP-16",
+        "kanji": "富山県",
+        "kanji_short": "富山",
+        "hiragana": "とやまけん",
+        "hiragana_short": "とやま",
+        "romaji": "Toyama-ken",
+        "romaji_short": "Toyama"
+    },
+    {
+        "iso": "JP-17",
+        "kanji": "石川県",
+        "kanji_short": "石川",
+        "hiragana": "いしかわけん",
+        "hiragana_short": "いしかわ",
+        "romaji": "Ishikawa-ken",
+        "romaji_short": "Ishikawa"
+    },
+    {
+        "iso": "JP-18",
+        "kanji": "福井県",
+        "kanji_short": "福井",
+        "hiragana": "ふくいけん",
+        "hiragana_short": "ふくい",
+        "romaji": "Fukui-ken",
+        "romaji_short": "Fukui"
+    },
+    {
+        "iso": "JP-19",
+        "kanji": "山梨県",
+        "kanji_short": "山梨",
+        "hiragana": "やまなしけん",
+        "hiragana_short": "やまなし",
+        "romaji": "Yamanashi-ken",
+        "romaji_short": "Yamanashi"
+    },
+    {
+        "iso": "JP-20",
+        "kanji": "長野県",
+        "kanji_short": "長野",
+        "hiragana": "ながのけん",
+        "hiragana_short": "ながの",
+        "romaji": "Nagano-ken",
+        "romaji_short": "Nagano"
+    },
+    {
+        "iso": "JP-21",
+        "kanji": "岐阜県",
+        "kanji_short": "岐阜",
+        "hiragana": "ぎふけん",
+        "hiragana_short": "ぎふ",
+        "romaji": "Gifu-ken",
+        "romaji_short": "Gifu"
+    },
+    {
+        "iso": "JP-22",
+        "kanji": "静岡県",
+        "kanji_short": "静岡",
+        "hiragana": "しずおかけん",
+        "hiragana_short": "しずおか",
+        "romaji": "Shizuoka-ken",
+        "romaji_short": "Shizuoka"
+    },
+    {
+        "iso": "JP-23",
+        "kanji": "愛知県",
+        "kanji_short": "愛知",
+        "hiragana": "あいちけん",
+        "hiragana_short": "あいち",
+        "romaji": "Aichi-ken",
+        "romaji_short": "Aichi"
+    },
+    {
+        "iso": "JP-24",
+        "kanji": "三重県",
+        "kanji_short": "三重",
+        "hiragana": "みえけん",
+        "hiragana_short": "みえ",
+        "romaji": "Mie-ken",
+        "romaji_short": "Mie"
+    },
+    {
+        "iso": "JP-25",
+        "kanji": "滋賀県",
+        "kanji_short": "滋賀",
+        "hiragana": "しがけん",
+        "hiragana_short": "しが",
+        "romaji": "Shiga-ken",
+        "romaji_short": "Shiga"
+    },
+    {
+        "iso": "JP-26",
+        "kanji": "京都府",
+        "kanji_short": "京都",
+        "hiragana": "きょうとふ",
+        "hiragana_short": "きょうと",
+        "romaji": "Kyoto-fu",
+        "romaji_short": "Kyoto"
+    },
+    {
+        "iso": "JP-27",
+        "kanji": "大阪府",
+        "kanji_short": "大阪",
+        "hiragana": "おおさかふ",
+        "hiragana_short": "おおさか",
+        "romaji": "Osaka-fu",
+        "romaji_short": "Osaka"
+    },
+    {
+        "iso": "JP-28",
+        "kanji": "兵庫県",
+        "kanji_short": "兵庫",
+        "hiragana": "ひょうごけん",
+        "hiragana_short": "ひょうご",
+        "romaji": "Hyogo-ken",
+        "romaji_short": "Hyogo"
+    },
+    {
+        "iso": "JP-29",
+        "kanji": "奈良県",
+        "kanji_short": "奈良",
+        "hiragana": "ならけん",
+        "hiragana_short": "なら",
+        "romaji": "Nara-ken",
+        "romaji_short": "Nara"
+    },
+    {
+        "iso": "JP-30",
+        "kanji": "和歌山県",
+        "kanji_short": "和歌山",
+        "hiragana": "わかやまけん",
+        "hiragana_short": "わかやま",
+        "romaji": "Wakayama-ken",
+        "romaji_short": "Wakayama"
+    },
+    {
+        "iso": "JP-31",
+        "kanji": "鳥取県",
+        "kanji_short": "鳥取",
+        "hiragana": "とっとりけん",
+        "hiragana_short": "とっとり",
+        "romaji": "Tottori-ken",
+        "romaji_short": "Tottori"
+    },
+    {
+        "iso": "JP-32",
+        "kanji": "島根県",
+        "kanji_short": "島根",
+        "hiragana": "しまねけん",
+        "hiragana_short": "しまね",
+        "romaji": "Shimane-ken",
+        "romaji_short": "Shimane"
+    },
+    {
+        "iso": "JP-33",
+        "kanji": "岡山県",
+        "kanji_short": "岡山",
+        "hiragana": "おかやまけん",
+        "hiragana_short": "おかやま",
+        "romaji": "Okayama-ken",
+        "romaji_short": "Okayama"
+    },
+    {
+        "iso": "JP-34",
+        "kanji": "広島県",
+        "kanji_short": "広島",
+        "hiragana": "ひろしまけん",
+        "hiragana_short": "ひろしま",
+        "romaji": "Hiroshima-ken",
+        "romaji_short": "Hiroshima"
+    },
+    {
+        "iso": "JP-35",
+        "kanji": "山口県",
+        "kanji_short": "山口",
+        "hiragana": "やまぐちけん",
+        "hiragana_short": "やまぐち",
+        "romaji": "Yamaguchi-ken",
+        "romaji_short": "Yamaguchi"
+    },
+    {
+        "iso": "JP-36",
+        "kanji": "徳島県",
+        "kanji_short": "徳島",
+        "hiragana": "とくしまけん",
+        "hiragana_short": "とくしま",
+        "romaji": "Tokushima-ken",
+        "romaji_short": "Tokushima"
+    },
+    {
+        "iso": "JP-37",
+        "kanji": "香川県",
+        "kanji_short": "香川",
+        "hiragana": "かがわけん",
+        "hiragana_short": "かがわ",
+        "romaji": "Kagawa-ken",
+        "romaji_short": "Kagawa"
+    },
+    {
+        "iso": "JP-38",
+        "kanji": "愛媛県",
+        "kanji_short": "愛媛",
+        "hiragana": "えひめけん",
+        "hiragana_short": "えひめ",
+        "romaji": "Ehime-ken",
+        "romaji_short": "Ehime"
+    },
+    {
+        "iso": "JP-39",
+        "kanji": "高知県",
+        "kanji_short": "高知",
+        "hiragana": "こうちけん",
+        "hiragana_short": "こうち",
+        "romaji": "Kochi-ken",
+        "romaji_short": "Kochi"
+    },
+    {
+        "iso": "JP-40",
+        "kanji": "福岡県",
+        "kanji_short": "福岡",
+        "hiragana": "ふくおかけん",
+        "hiragana_short": "ふくおか",
+        "romaji": "Fukuoka-ken",
+        "romaji_short": "Fukuoka"
+    },
+    {
+        "iso": "JP-41",
+        "kanji": "佐賀県",
+        "kanji_short": "佐賀",
+        "hiragana": "さがけん",
+        "hiragana_short": "さが",
+        "romaji": "Saga-ken",
+        "romaji_short": "Saga"
+    },
+    {
+        "iso": "JP-42",
+        "kanji": "長崎県",
+        "kanji_short": "長崎",
+        "hiragana": "ながさきけん",
+        "hiragana_short": "ながさき",
+        "romaji": "Nagasaki-ken",
+        "romaji_short": "Nagasaki"
+    },
+    {
+        "iso": "JP-43",
+        "kanji": "熊本県",
+        "kanji_short": "熊本",
+        "hiragana": "くまもとけん",
+        "hiragana_short": "くまもと",
+        "romaji": "Kumamoto-ken",
+        "romaji_short": "Kumamoto"
+    },
+    {
+        "iso": "JP-44",
+        "kanji": "大分県",
+        "kanji_short": "大分",
+        "hiragana": "おおいたけん",
+        "hiragana_short": "おおいた",
+        "romaji": "Oita-ken",
+        "romaji_short": "Oita"
+    },
+    {
+        "iso": "JP-45",
+        "kanji": "宮崎県",
+        "kanji_short": "宮崎",
+        "hiragana": "みやざきけん",
+        "hiragana_short": "みやざき",
+        "romaji": "Miyazaki-ken",
+        "romaji_short": "Miyazaki"
+    },
+    {
+        "iso": "JP-46",
+        "kanji": "鹿児島県",
+        "kanji_short": "鹿児島",
+        "hiragana": "かごしまけん",
+        "hiragana_short": "かごしま",
+        "romaji": "Kagoshima-ken",
+        "romaji_short": "Kagoshima"
+    },
+    {
+        "iso": "JP-47",
+        "kanji": "沖縄県",
+        "kanji_short": "沖縄",
+        "hiragana": "おきなわけん",
+        "hiragana_short": "おきなわ",
+        "romaji": "Okinawa-ken",
+        "romaji_short": "Okinawa"
+    }
+]
